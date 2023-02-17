@@ -1,0 +1,26 @@
+.addSection{
+width: 40%;
+height: 30vh;
+box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.title{
+    outline: none;
+    border: none;
+}
+.noteArea{
+    outline: none;
+    border: none;
+}
+.eachnote{
+    height: auto;
+    width: 20%;
+    border: thin solid black;
+}
+.showtitle{
+    font-size: 9px ;
+}
+.disp{
+    display: flex !important;
+   flex-wrap: wrap;
+   
+}
